@@ -2,7 +2,7 @@
 # Advent of Code 2022, day 5
 
 
-# Solving puzzels from :
+# Solving puzzles from :
 # https://adventofcode.com/
 
 --- Day 5: Supply Stacks ---
